@@ -1,4 +1,4 @@
-my_name = ('Pavel')
+my_name = ('Павел')
 
 print (my_name)
 
