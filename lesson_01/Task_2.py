@@ -1,4 +1,4 @@
-my_age = (27)
-my_age = (30)
+my_age = (28)
+my_age = (31)
 
 print (my_age)
